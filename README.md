@@ -35,4 +35,4 @@ Chatbot: Google Gemini
 
 🚀 Demo
 
-[![Watch the demo] https://youtu.be/PT7pOpOLYmQ
+[![Watch the demo](https://img.youtube.com/vi/PT7pOpOLYmQ/0.jpg)](https://www.youtube.com/watch?v=PT7pOpOLYmQ)
