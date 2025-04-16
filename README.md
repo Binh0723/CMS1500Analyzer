@@ -1,38 +1,36 @@
-🩺 CMS-1500 Validator
-This web application is designed to validate CMS-1500 medical claim forms. It supports both fillable PDFs and scanned images by extracting form data using OCR, then validating it against a set of predefined rules and formatting standards.
+# 🩺 CMS-1500 Validator
 
-✨ Features
-Upload fillable CMS-1500 PDFs or scanned image files
+This web application is designed to **validate CMS-1500 medical claim forms**. It supports both **fillable PDFs** and **scanned images** by extracting form data using OCR, then validating it against a set of predefined rules and formatting standards.
 
-Automatically extract form fields using OCR
+---
 
-Validate fields for formatting errors, missing information, and required values
+## ✨ Features
 
-Display detailed error messages for user correction
+- Upload fillable CMS-1500 PDFs or scanned image files  
+- Automatically extract form fields using OCR  
+- Validate fields for formatting errors, missing information, and required values  
+- Display detailed error messages for user correction  
 
-🛠 Tech Stack
-Frontend:
+---
 
-TypeScript
+## 🛠 Tech Stack
 
-React
+**Frontend:**
+- TypeScript  
+- React  
+- Tailwind CSS  
+- Vite  
 
-Tailwind CSS
+**Backend:**
+- Python  
+- FastAPI  
 
-Vite
+**AI Services:**
+- OCR: Amazon Textract  
+- Chatbot: Google Gemini  
 
-Backend:
+---
 
-Python
-
-FastAPI
-
-AI Services:
-
-OCR: Amazon Textract
-
-Chatbot: Google Gemini
-
-🚀 Demo
+## 🚀 Demo
 
 [![Watch the demo](https://img.youtube.com/vi/PT7pOpOLYmQ/0.jpg)](https://www.youtube.com/watch?v=PT7pOpOLYmQ)
